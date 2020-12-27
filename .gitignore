@@ -1,0 +1,4 @@
+/out
+*.plantuml
+/.attach_pid*
+.idea
